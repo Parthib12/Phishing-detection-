@@ -1,0 +1,21 @@
+/* src/App.css */
+
+/* Home page styling */
+.container {
+  margin-top: 20px;
+}
+
+.input-group {
+  margin-top: 20px;
+}
+
+.form-control {
+  border-radius: 5px;
+}
+
+.btn-primary {
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
+/* Add more styling for Login, Signup, and AboutUs components as needed */
